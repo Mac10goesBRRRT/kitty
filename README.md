@@ -7,6 +7,6 @@ I added a theme and FiraCode Font with ligatures, to get some better looks.
 
 Head to `~/.config/` and clone this repo
 ```bash
-git clone https://github.com/Mac10goesBRRRT/kitty .
+git clone https://github.com/Mac10goesBRRRT/kitty
 ```
 You might need to install the Font for this, which can be found [here](https://github.com/tonsky/FiraCode).
